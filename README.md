@@ -1,5 +1,5 @@
 <div align="center">
-<img src="portfolio-assets/cover.svg" width="100%" alt="Arduino MKR FOX 1200 Sigfox Demo project cover">
+<img src="https://raw.githubusercontent.com/Ace-Alch/Ace-Alch.github.io/main/banners/mkr-fox-sigfox-demo.webp" width="100%" alt="mkr-fox-sigfox-demo — concept artwork">
 
 # Arduino MKR FOX 1200 Sigfox Demo
 
